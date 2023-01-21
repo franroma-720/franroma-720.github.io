@@ -1,2 +1,4 @@
 # franroma-720.github.io
-Romano Data Solutions website
+
+This repository generates the website for Romano Data Solutions.
+The theme is a modified version of the [Freelancer](https://github.com/jeromelachaud/freelancer-theme) theme.
