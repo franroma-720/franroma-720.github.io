@@ -1,5 +1,4 @@
-- [ ] SEO 
-- [ ] Make contct form work
+- [ ] SEO
 - [ ] Add logo
 - [ ] Add headshot
 - [ ] Repoint to www.romanodatasolutions.com
